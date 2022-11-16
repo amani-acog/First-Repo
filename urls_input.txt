@@ -1,0 +1,3 @@
+https://typer.tiangolo.com/tutorial/
+https://fastapi.tiangolo.com/python-types/#__tabbed_5_2
+https://www.geeksforgeeks.org/click-module-in-python-making-awesome-command-line-utilities/
