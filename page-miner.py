@@ -50,6 +50,6 @@ def download(input_file: str, output_dir: str):
         else:
             print("Website doesn't exists")
         
-
+        
 if __name__ == '__main__':
     app()
